@@ -1,0 +1,19 @@
+Coloque nesta pasta as imagens do site, com EXATAMENTE estes nomes:
+
+  logo.png      -> logo da igreja (de preferência fundo transparente, versão clara/branca, ~200px de altura)
+  hero.jpg      -> foto de capa (horizontal, ~1920x1080). Recebe um filtro vinho por cima.
+  pastor.jpg    -> foto do pastor (quadrada, ~600x600)
+  foto-1.jpg
+  foto-2.jpg
+  foto-3.jpg
+  foto-4.jpg
+  foto-5.jpg
+  foto-6.jpg    -> fotos da galeria (horizontais, ~1200x900)
+
+Se alguma imagem não existir, o site continua funcionando:
+  - sem logo.png: aparece só o nome da igreja
+  - sem hero.jpg: aparece um fundo em degradê vinho
+  - sem pastor.jpg: aparecem as iniciais "ON"
+  - sem fotos: a grade da galeria fica oculta e mostra só o link do Instagram
+
+Dica: reduza o tamanho das fotos (ex.: squoosh.app) para o site carregar rápido.
