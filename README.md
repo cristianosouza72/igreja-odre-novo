@@ -20,8 +20,6 @@ grep -n "\[" index.html
 | Placeholder | Onde aparece |
 |---|---|
 | `[NOME DO PASTOR]` e texto de apresentação | seção Liderança |
-| `[ENDEREÇO]`, `[NÚMERO]`, `[BAIRRO]`, `[CIDADE]`, `[UF]`, `[CEP]` | Visite-nos e dados estruturados (topo do arquivo) |
-| `[ENDEREÇO+COMPLETO]` | mapa e botão "Como chegar" — use o endereço com `+` no lugar dos espaços, ex.: `Rua+das+Flores,+100,+Centro,+Sao+Paulo+SP` |
 | `[DDD][NUMERO]` | link do WhatsApp, só dígitos, ex.: `https://wa.me/5511999998888` |
 | `([DDD]) [NÚMERO]` | número exibido no cartão do WhatsApp |
 | `[EMAIL]` | cartão de e-mail (aparece 2 vezes) |
